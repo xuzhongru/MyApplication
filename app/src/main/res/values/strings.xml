@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <item name="header" type="id"></item>
+    <item name="footer" type="id"></item>
+    <string-array name="testData">
+        <item>男生</item>
+        <item>女生</item>
+        <item>潮童</item>
+        <item>创意生活</item>
+        <item>奥莱</item>
+        <item>潮流精选</item>
+        <item>明星原创</item>
+        <item>全球购</item>
+        <item>逛</item>   <item>男生</item>
+        <item>女生</item>
+        <item>潮童</item>
+        <item>创意生活</item>
+        <item>奥莱</item>
+        <item>潮流精选</item>
+        <item>明星原创</item>
+        <item>全球购</item>
+        <item>逛</item>   <item>男生</item>
+        <item>女生</item>
+        <item>潮童</item>
+        <item>创意生活</item>
+        <item>奥莱</item>
+        <item>潮流精选</item>
+        <item>明星原创</item> <item>潮流精选</item>
+        <item>明星原创</item>
+        <item>全球购</item>
+        <item>逛</item>   <item>男生</item>
+        <item>女生</item>
+        <item>潮童</item>
+        <item>创意生活</item>
+        <item>奥莱</item>
+        <item>潮流精选</item>
+        <item>明星原创</item>
+        <item>全球购</item>
+        <item>逛</item>   <item>男生</item>
+        <item>女生</item>
+        <item>潮童</item>
+        <item>创意生活</item>
+        <item>奥莱</item>
+        <item>潮流精选</item>
+        <item>明星原创</item> <item>潮流精选</item>
+        <item>明星原创</item>
+        <item>全球购</item>
+        <item>逛</item>   <item>男生</item>
+        <item>女生</item>
+        <item>潮童</item>
+        <item>创意生活</item>
+        <item>奥莱</item>
+        <item>潮流精选</item>
+        <item>明星原创</item>
+        <item>全球购</item>
+        <item>逛</item>   <item>男生</item>
+        <item>女生</item>
+        <item>潮童</item>
+        <item>创意生活</item>
+        <item>奥莱</item>
+        <item>潮流精选</item>
+        <item>明星原创</item> <item>潮流精选</item>
+        <item>明星原创</item>
+        <item>全球购</item>
+        <item>逛</item>   <item>男生</item>
+        <item>女生</item>
+        <item>潮童</item>
+        <item>创意生活</item>
+        <item>奥莱</item>
+        <item>潮流精选</item>
+        <item>明星原创</item>
+        <item>全球购</item>
+        <item>逛</item>   <item>男生</item>
+        <item>女生</item>
+        <item>潮童</item>
+        <item>创意生活</item>
+        <item>奥莱</item>
+        <item>潮流精选</item>
+        <item>明星原创</item>
+        <item>全球购</item>
+        <item>逛</item>   <item>男生</item>
+        <item>女生</item>
+        <item>潮童</item>
+        <item>创意生活</item>
+        <item>奥莱</item>
+        <item>潮流精选</item>
+        <item>明星原创</item>
+        <item>全球购</item>
+        <item>逛</item>
+    </string-array>
+    <string-array name="MenuLeftData">
+        <item>男生</item>
+        <item>女生</item>
+        <item>潮童</item>
+        <item>创意生活</item>
+        <item>奥莱</item>
+        <item>潮流精选</item>
+        <item>明星原创</item>
+        <item>全球购</item>
+        <item>逛</item>
+    </string-array>
+</resources>
