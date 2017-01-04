@@ -20,6 +20,7 @@ import java.util.List;
  */
 
 public class Pull extends RelativeLayout {
+    ////ygfhgfjgjhhgu
     private float dimension = 25;
     private ImageView head;
     private LayoutParams headparams;
